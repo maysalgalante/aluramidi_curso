@@ -1,7 +1,8 @@
 # Alura Midi Curso
 
 Olá, Nesse curso da Alura aprendi a fazer uma série de funcionalidades iniciais com o JavaScript.
-- Criamos uma função que reproduz o som dos instrumentos musicais que estão armazenados dentro de um elemento áudio do HTML e fizemos com que esses sons que foram reproduzidos lá na nossa interface gráfica Aura Midi. Além disso, aprendi como fazemos para fazer um código otimizado que percorre por todos os botões, reduzindo repetição e aumentando o reaproveitamento e a manutenção desse código.
+- Criamos uma função que reproduz o som dos instrumentos musicais que estão armazenados dentro de um elemento áudio do HTML e fizemos com que esses sons fossem reproduzidos na nossa interface gráfica Alura Midi. 
+- Além disso, aprendi a fazer um código otimizado que percorre por todos os botões, reduzindo repetição e aumentando o reaproveitamento e a manutenção desse código.
 - Com isso, consigo elaborar uma página mais dinâmica com o JavaScript.
 
 
